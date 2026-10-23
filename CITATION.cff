@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite this repository and its associated manuscript when using these materials."
+type: software
+title: "Data and analysis for Deep learning reveals hidden early brain phenotypes induced by biodegradable microplastics"
+authors:
+  - family-names: Wang
+    given-names: Mengyu
+  - family-names: Wang
+    given-names: Wen-Xiong
+repository-code: "https://github.com/ParcoDing/MengyuWang_Biodegradable-Microplastics-Brain-Early-Warning-CNN"
+abstract: "Processed zebrafish brain images, segmentation masks, image features, stored CNN logits, and downstream analysis scripts for aged PLA exposure."
+keywords:
+  - zebrafish
+  - microplastics
+  - expansion microscopy
+  - image phenotyping
+  - convolutional neural networks

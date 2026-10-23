@@ -1,0 +1,5 @@
+day,dose,image_name,image_stem,image_path,label_path,n_cells,mean_cell_roundness,green_mean_eccentricity,texture_glcm_contrast_std,distance_to_3feature_center
+Day 5,0 ug/L,18-2.png,18-2,data/images/day5 0CT/18-2.png,data/segmentation/day5 0CT/18-2_labels.npy,83,0.8379797460169631,0.6201727088443204,146.18972683321527,0.10737753036631743
+Day 5,500 ug/L,74-1.png,74-1,data/images/day5 500ppb/74-1.png,data/segmentation/day5 500ppb/74-1_labels.npy,93,0.8430314441615995,0.6132926214976787,168.58868715523747,0.1769384020495593
+Day 14,0 ug/L,53-2.png,53-2,data/images/day14 0CT/53-2.png,data/segmentation/day14 0CT/53-2_labels.npy,84,0.8323657504635366,0.6202543269422137,119.83782680142667,0.20042147012507452
+Day 14,500 ug/L,33-2.png,33-2,data/images/day14 500ppb/33-2.png,data/segmentation/day14 500ppb/33-2_labels.npy,88,0.826498734291566,0.6248619132285677,123.95998365147975,0.13347165031602096

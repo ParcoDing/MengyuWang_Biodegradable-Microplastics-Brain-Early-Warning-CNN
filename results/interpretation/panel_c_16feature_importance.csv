@@ -1,0 +1,33 @@
+Day,Feature,Feature_label,Importance
+Day 5,cell_density,Cell density,0.023427726792229143
+Day 5,cell_roundness,Cell roundness,0.047385070078044815
+Day 5,nearest_neighbor_distance,Nearest-neighbor distance,0.06327645419876694
+Day 5,local_density_variance,Local density variance,0.03428542754852999
+Day 5,channel_colocalization,Channel colocalization,0.19998873556203733
+Day 5,spatial_heterogeneity_increase,Spatial heterogeneity,0.03108464340249513
+Day 5,green_mean_cell_area,Mean cell area,0.04018277256113696
+Day 5,green_mean_eccentricity,Mean eccentricity,0.0438880703692998
+Day 5,green_neighbor_degree,Neighbor degree,0.04015814686595189
+Day 5,green_close_neighbor_fraction,Close-neighbor fraction,0.039110445539309854
+Day 5,green_dilation_connectivity,Dilation connectivity,0.025347218133396545
+Day 5,texture_glcm_contrast_std,GLCM contrast SD,0.04756105189692294
+Day 5,texture_glcm_energy_std,GLCM energy SD,0.17615886917749551
+Day 5,texture_glcm_dissimilarity_std,GLCM dissimilarity SD,0.06203939687849425
+Day 5,texture_glcm_correlation_std,GLCM correlation SD,0.06919451110969571
+Day 5,texture_glcm_homogeneity_mean,GLCM homogeneity mean,0.056911459886193214
+Day 14,cell_density,Cell density,0.031115474905322016
+Day 14,cell_roundness,Cell roundness,0.03817745304801745
+Day 14,nearest_neighbor_distance,Nearest-neighbor distance,0.05209137537843341
+Day 14,local_density_variance,Local density variance,0.03294333183271213
+Day 14,channel_colocalization,Channel colocalization,0.28785922240285733
+Day 14,spatial_heterogeneity_increase,Spatial heterogeneity,0.035060176006563006
+Day 14,green_mean_cell_area,Mean cell area,0.051082356553695245
+Day 14,green_mean_eccentricity,Mean eccentricity,0.04439003574888232
+Day 14,green_neighbor_degree,Neighbor degree,0.0526214225556101
+Day 14,green_close_neighbor_fraction,Close-neighbor fraction,0.04105983033914077
+Day 14,green_dilation_connectivity,Dilation connectivity,0.023942391950582627
+Day 14,texture_glcm_contrast_std,GLCM contrast SD,0.0451793303198068
+Day 14,texture_glcm_energy_std,GLCM energy SD,0.0803388578570652
+Day 14,texture_glcm_dissimilarity_std,GLCM dissimilarity SD,0.05834544630736976
+Day 14,texture_glcm_correlation_std,GLCM correlation SD,0.058534737685952944
+Day 14,texture_glcm_homogeneity_mean,GLCM homogeneity mean,0.06725855710798898

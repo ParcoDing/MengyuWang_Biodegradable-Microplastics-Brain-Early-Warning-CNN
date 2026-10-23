@@ -1,0 +1,7038 @@
+[
+  {
+    "archive": "5个画图代码v1.rar",
+    "files": 5,
+    "identical_expanded_files": 0,
+    "entries": [
+      {
+        "path": "跨时间预测.py",
+        "bytes": 23341,
+        "matches_expanded_file": false
+      },
+      {
+        "path": "特征解释性.py",
+        "bytes": 12137,
+        "matches_expanded_file": false
+      },
+      {
+        "path": "显微镜图片.py",
+        "bytes": 37117,
+        "matches_expanded_file": false
+      },
+      {
+        "path": "隐藏中间剂量.py",
+        "bytes": 21478,
+        "matches_expanded_file": false
+      },
+      {
+        "path": "5天-10天-16特征热力图.py",
+        "bytes": 19671,
+        "matches_expanded_file": false
+      }
+    ]
+  },
+  {
+    "archive": "5个画图代码v2.rar",
+    "files": 5,
+    "identical_expanded_files": 5,
+    "entries": [
+      {
+        "path": "5天-14天-16特征热力图_读取5和10(1).py",
+        "bytes": 20150,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "跨时间预测_读取5和10_显示5和14(1).py",
+        "bytes": 23989,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "特征解释性_显示5和14(1).py",
+        "bytes": 38148,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "显微镜图片_读取5和10_显示5和14(1).py",
+        "bytes": 37427,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "隐藏中间剂量_读取5和10_显示5和14(1).py",
+        "bytes": 21867,
+        "matches_expanded_file": true
+      }
+    ]
+  },
+  {
+    "archive": "预训练神经网络做细胞分割/细胞分割.rar",
+    "files": 1393,
+    "identical_expanded_files": 1393,
+    "entries": [
+      {
+        "path": "5天 200ppb/1-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/1-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/1-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/1-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/10-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/10-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/10-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/10-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/11-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/11-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/11-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/11-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/12-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/12-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/12-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/12-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/13-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/13-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/13-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/13-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/14-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/14-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/14-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/14-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/15-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/15-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/15-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/15-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/16-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/16-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/16-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/16-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/17-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/17-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/17-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/17-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/18-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/18-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/18-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/18-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/19-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/19-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/19-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/19-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/2-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/2-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/2-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/2-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/20-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/20-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/20-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/20-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/21-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/21-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/21-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/21-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/22-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/22-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/22-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/22-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/23-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/23-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/23-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/23-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/24-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/24-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/24-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/24-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/25-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/25-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/25-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/25-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/26-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/26-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/26-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/26-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/27-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/27-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/27-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/27-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/28-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/28-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/28-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/28-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/29-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/29-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/29-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/29-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/3-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/3-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/3-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/3-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/30-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/30-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/30-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/30-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/31-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/31-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/31-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/31-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/32-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/32-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/32-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/32-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/33-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/33-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/33-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/33-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/34-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/34-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/34-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/34-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/35-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/35-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/35-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/35-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/36-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/36-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/36-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/36-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/37-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/37-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/37-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/37-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/38-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/38-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/38-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/38-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/39-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/39-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/39-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/39-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/4-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/4-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/4-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/4-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/40-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/40-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/40-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/40-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/41-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/41-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/41-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/41-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/42-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/42-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/42-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/42-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/43-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/43-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/43-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/43-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/44-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/44-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/44-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/44-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/45-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/45-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/45-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/45-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/46-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/46-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/46-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/46-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/47-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/47-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/47-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/47-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/48-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/48-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/48-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/48-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/49-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/49-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/49-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/49-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/5-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/5-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/5-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/5-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/50-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/50-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/50-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/50-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/51-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/51-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/51-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/51-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/52-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/52-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/52-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/52-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/53-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/53-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/53-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/53-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/54-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/54-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/54-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/54-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/55-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/55-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/55-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/55-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/56-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/56-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/56-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/56-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/57-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/57-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/57-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/57-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/58-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/58-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/58-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/58-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/59-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/59-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/59-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/59-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/6-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/6-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/6-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/6-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/60-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/60-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/60-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/60-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/61-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/61-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/61-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/61-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/62-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/62-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/62-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/62-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/63-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/63-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/63-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/63-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/64-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/64-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/64-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/64-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/65-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/65-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/65-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/65-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/66-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/66-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/66-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/66-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/67-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/67-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/67-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/67-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/68-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/68-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/68-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/68-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/69-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/69-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/69-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/69-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/7-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/7-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/7-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/7-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/70-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/70-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/70-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/70-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/71-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/71-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/71-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/71-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/72-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/72-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/72-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/72-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/73-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/73-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/73-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/73-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/74-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/74-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/74-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/74-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/75-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/75-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/75-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/75-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/76-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/76-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/76-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/76-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/77-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/77-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/77-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/77-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/78-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/78-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/78-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/78-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/79-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/79-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/79-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/79-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/8-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/8-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/8-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/8-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/80-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/80-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/80-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/80-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/81-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/81-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/81-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/81-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/82-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/82-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/82-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/82-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/83-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/83-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/83-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/83-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/84-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/84-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/84-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/84-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/85-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/85-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/85-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/85-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/86-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/86-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/86-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/86-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/87-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/87-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/87-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/87-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/88-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/88-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/88-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/88-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/89-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/89-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/89-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/89-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/9-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/9-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/9-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 200ppb/9-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/1-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/1-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/1-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/1-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/10-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/10-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/10-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/10-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/11-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/11-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/11-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/11-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/12-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/12-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/12-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/12-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/13-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/13-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/13-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/13-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/14-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/14-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/14-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/14-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/15-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/15-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/15-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/15-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/16-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/16-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/16-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/16-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/17-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/17-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/17-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/17-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/18-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/18-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/18-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/18-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/19-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/19-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/19-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/19-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/2-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/2-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/2-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/2-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/20-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/20-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/20-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/20-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/21-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/21-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/21-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/21-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/22-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/22-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/22-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/22-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/23-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/23-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/23-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/23-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/24-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/24-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/24-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/24-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/25-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/25-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/25-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/25-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/26-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/26-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/26-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/26-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/27-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/27-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/27-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/27-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/28-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/28-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/28-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/28-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/29-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/29-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/29-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/29-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/3-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/3-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/3-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/3-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/30-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/30-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/30-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/30-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/31-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/31-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/31-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/31-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/32-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/32-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/32-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/32-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/33-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/33-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/33-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/33-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/34-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/34-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/34-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/34-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/35-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/35-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/35-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/35-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/36-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/36-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/36-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/36-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/37-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/37-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/37-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/37-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/38-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/38-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/38-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/38-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/39-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/39-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/39-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/39-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/4-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/4-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/4-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/4-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/40-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/40-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/40-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/40-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/41-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/41-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/41-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/41-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/42-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/42-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/42-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/42-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/43-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/43-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/43-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/43-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/44-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/44-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/44-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/44-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/45-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/45-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/45-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/45-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/46-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/46-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/46-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/46-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/47-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/47-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/47-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/47-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/48-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/48-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/48-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/48-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/49-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/49-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/49-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/49-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/5-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/5-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/5-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/5-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/50-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/50-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/50-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/50-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/51-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/51-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/51-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/51-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/52-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/52-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/52-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/52-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/53-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/53-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/53-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/53-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/54-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/54-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/54-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/54-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/55-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/55-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/55-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/55-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/56-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/56-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/56-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/56-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/57-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/57-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/57-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/57-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/58-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/58-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/58-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/58-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/59-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/59-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/59-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/59-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/6-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/6-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/6-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/6-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/60-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/60-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/60-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/60-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/61-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/61-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/61-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/61-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/62-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/62-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/62-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/62-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/63-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/63-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/63-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/63-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/64-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/64-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/64-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/64-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/65-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/65-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/65-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/65-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/66-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/66-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/66-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/66-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/67-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/67-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/67-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/67-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/68-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/68-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/68-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/68-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/69-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/69-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/69-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/69-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/7-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/7-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/7-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/7-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/70-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/70-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/70-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/70-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/71-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/71-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/71-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/71-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/72-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/72-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/72-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/72-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/73-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/73-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/73-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/73-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/74-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/74-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/74-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/74-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/75-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/75-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/75-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/75-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/76-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/76-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/76-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/76-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/77-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/77-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/77-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/77-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/78-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/78-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/78-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/78-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/79-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/79-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/79-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/79-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/8-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/8-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/8-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/8-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/80-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/80-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/80-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/80-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/81-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/81-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/81-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/81-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/82-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/82-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/82-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/82-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/83-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/83-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/83-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/83-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/84-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/84-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/84-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/84-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/85-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/85-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/85-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/85-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/86-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/86-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/86-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/86-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/87-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/87-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/87-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/87-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/88-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/88-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/88-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/88-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/89-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/89-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/89-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/89-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/9-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/9-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/9-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/9-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/90-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/90-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/90-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/90-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/91-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/91-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/91-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 500ppb/91-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "segmentation_index.csv",
+        "bytes": 348684,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/1-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/1-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/1-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/1-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/10-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/10-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/10-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/10-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/11-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/11-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/11-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/11-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/12-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/12-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/12-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/12-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/13-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/13-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/13-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/13-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/14-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/14-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/14-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/14-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/15-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/15-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/15-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/15-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/16-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/16-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/16-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/16-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/17-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/17-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/17-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/17-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/18-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/18-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/18-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/18-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/19-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/19-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/19-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/19-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/2-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/2-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/2-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/2-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/20-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/20-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/20-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/20-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/21-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/21-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/21-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/21-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/22-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/22-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/22-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/22-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/23-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/23-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/23-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/23-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/24-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/24-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/24-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/24-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/25-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/25-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/25-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/25-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/26-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/26-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/26-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/26-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/27-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/27-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/27-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/27-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/28-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/28-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/28-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/28-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/29-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/29-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/29-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/29-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/3-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/3-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/3-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/3-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/30-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/30-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/30-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/30-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/31-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/31-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/31-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/31-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/32-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/32-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/32-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/32-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/33-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/33-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/33-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/33-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/34-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/34-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/34-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/34-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/35-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/35-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/35-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/35-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/36-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/36-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/36-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/36-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/37-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/37-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/37-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/37-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/38-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/38-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/38-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/38-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/39-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/39-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/39-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/39-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/4-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/4-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/4-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/4-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/40-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/40-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/40-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/40-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/41-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/41-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/41-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/41-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/42-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/42-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/42-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/42-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/43-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/43-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/43-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/43-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/44-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/44-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/44-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/44-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/45-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/45-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/45-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/45-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/46-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/46-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/46-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/46-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/47-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/47-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/47-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/47-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/48-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/48-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/48-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/48-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/49-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/49-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/49-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/49-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/5-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/5-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/5-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/5-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/50-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/50-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/50-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/50-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/51-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/51-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/51-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/51-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/52-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/52-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/52-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/52-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/53-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/53-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/53-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/53-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/54-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/54-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/54-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/54-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/55-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/55-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/55-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/55-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/56-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/56-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/56-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/56-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/57-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/57-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/57-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/57-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/58-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/58-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/58-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/58-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/59-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/59-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/59-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/59-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/6-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/6-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/6-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/6-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/60-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/60-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/60-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/60-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/61-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/61-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/61-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/61-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/62-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/62-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/62-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/62-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/63-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/63-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/63-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/63-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/64-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/64-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/64-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/64-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/65-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/65-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/65-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/65-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/66-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/66-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/66-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/66-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/67-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/67-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/67-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/67-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/68-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/68-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/68-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/68-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/69-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/69-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/69-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/69-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/7-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/7-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/7-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/7-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/70-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/70-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/70-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/70-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/71-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/71-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/71-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/71-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/72-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/72-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/72-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/72-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/73-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/73-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/73-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/73-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/74-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/74-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/74-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/74-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/75-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/75-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/75-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/75-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/76-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/76-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/76-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/76-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/77-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/77-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/77-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/77-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/78-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/78-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/78-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/78-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/79-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/79-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/79-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/79-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/8-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/8-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/8-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/8-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/80-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/80-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/80-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/80-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/81-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/81-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/81-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/81-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/82-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/82-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/82-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/82-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/83-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/83-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/83-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/83-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/84-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/84-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/84-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/84-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/9-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/9-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/9-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 0CT/9-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/1-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/1-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/1-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/1-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/10-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/10-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/10-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/10-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/11-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/11-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/11-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/11-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/12-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/12-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/12-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/12-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/13-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/13-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/13-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/13-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/14-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/14-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/14-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/14-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/15-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/15-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/15-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/15-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/16-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/16-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/16-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/16-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/17-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/17-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/17-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/17-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/18-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/18-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/18-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/18-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/19-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/19-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/19-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/19-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/2-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/2-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/2-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/2-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/20-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/20-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/20-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/20-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/21-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/21-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/21-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/21-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/22-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/22-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/22-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/22-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/23-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/23-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/23-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/23-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/24-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/24-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/24-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/24-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/25-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/25-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/25-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/25-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/26-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/26-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/26-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/26-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/27-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/27-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/27-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/27-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/28-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/28-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/28-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/28-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/29-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/29-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/29-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/29-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/3-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/3-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/3-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/3-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/30-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/30-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/30-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/30-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/31-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/31-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/31-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/31-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/32-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/32-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/32-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/32-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/33-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/33-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/33-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/33-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/34-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/34-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/34-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/34-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/35-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/35-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/35-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/35-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/36-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/36-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/36-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/36-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/37-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/37-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/37-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/37-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/38-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/38-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/38-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/38-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/39-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/39-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/39-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/39-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/4-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/4-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/4-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/4-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/40-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/40-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/40-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/40-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/41-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/41-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/41-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/41-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/42-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/42-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/42-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/42-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/43-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/43-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/43-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/43-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/44-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/44-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/44-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/44-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/45-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/45-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/45-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/45-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/46-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/46-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/46-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/46-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/47-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/47-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/47-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/47-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/48-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/48-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/48-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/48-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/49-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/49-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/49-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/49-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/5-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/5-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/5-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/5-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/50-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/50-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/50-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/50-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/51-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/51-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/51-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/51-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/52-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/52-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/52-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/52-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/53-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/53-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/53-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/53-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/54-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/54-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/54-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/54-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/55-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/55-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/55-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/55-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/56-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/56-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/56-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/56-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/57-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/57-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/57-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/57-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/58-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/58-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/58-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/58-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/59-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/59-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/59-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/59-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/6-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/6-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/6-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/6-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/60-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/60-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/60-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/60-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/61-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/61-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/61-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/61-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/62-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/62-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/62-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/62-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/63-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/63-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/63-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/63-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/64-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/64-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/64-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/64-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/65-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/65-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/65-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/65-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/66-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/66-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/66-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/66-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/67-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/67-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/67-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/67-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/68-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/68-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/68-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/68-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/69-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/69-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/69-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/69-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/7-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/7-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/7-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/7-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/70-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/70-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/70-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/70-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/71-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/71-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/71-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/71-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/72-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/72-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/72-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/72-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/73-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/73-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/73-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/73-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/74-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/74-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/74-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/74-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/75-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/75-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/75-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/75-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/76-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/76-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/76-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/76-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/77-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/77-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/77-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/77-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/78-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/78-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/78-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/78-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/79-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/79-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/79-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/79-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/8-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/8-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/8-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/8-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/80-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/80-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/80-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/80-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/81-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/81-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/81-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/81-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/82-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/82-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/82-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/82-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/83-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/83-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/83-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/83-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/84-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/84-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/84-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/84-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/9-1_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/9-2_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/9-3_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      },
+      {
+        "path": "5天 50ppb/9-4_labels.npy",
+        "bytes": 262272,
+        "matches_expanded_file": true
+      }
+    ]
+  }
+]

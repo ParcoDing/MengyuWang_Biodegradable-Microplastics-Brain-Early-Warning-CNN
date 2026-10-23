@@ -1,0 +1,2 @@
+Endpoint_AUROC,Endpoint_AUPRC,Dose_trend_slope,Dose_trend_CI_low,Dose_trend_CI_high,Dose_trend_linear_p,Dose_trend_Pearson_r,Dose_trend_Spearman_r,Dose_trend_Spearman_p,N_images,N_selected_features
+0.9549856168049236,0.9513234778942558,0.006446610548321138,0.006009230388253632,0.006883990708388643,1.357648402017953e-147,0.5886400606458402,0.6166878043410732,9.069233892882751e-166,1576,16

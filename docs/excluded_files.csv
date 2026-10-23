@@ -1,0 +1,67 @@
+source_path,reason
+5个画图代码v1.rar,Nested archive retained in original ZIP; see preparation report
+5个画图代码v2.rar,Nested archive retained in original ZIP; see preparation report
+5天-14天-16特征热力图_读取5和10(1).py,Alternative script revision; selected version is recorded in provenance.csv
+5天-14天-16特征热力图_读取5和10.py,Alternative script revision; selected version is recorded in provenance.csv
+feature_visualization_outputs/feature_panels/10_d/cell_density_12-3.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/feature_panels/10_d/cell_roundness_12-3.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/feature_panels/10_d/channel_colocalization_12-3.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/feature_panels/10_d/green_cell_area_cv_12-3.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/feature_panels/10_d/green_close_neighbor_fraction_12-3.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/feature_panels/10_d/green_dilation_connectivity_12-3.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/feature_panels/10_d/green_mean_cell_area_12-3.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/feature_panels/10_d/green_mean_eccentricity_12-3.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/feature_panels/10_d/green_neighbor_degree_12-3.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/feature_panels/10_d/local_density_variance_12-3.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/feature_panels/10_d/magenta_largest_component_fraction_12-3.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/feature_panels/10_d/nearest_neighbor_distance_12-3.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/feature_panels/10_d/reduced_green_cell_density_12-3.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/feature_panels/10_d/spatial_heterogeneity_increase_12-3.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/feature_panels/10_d/texture_glcm_contrast_std_12-3.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/feature_panels/10_d/texture_glcm_correlation_std_12-3.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/feature_panels/10_d/texture_glcm_dissimilarity_std_12-3.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/feature_panels/10_d/texture_glcm_energy_std_12-3.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/feature_panels/10_d/texture_glcm_homogeneity_mean_12-3.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/segmentation_qc_single/10_d_0CT_12-3_green_segmentation_bw.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/segmentation_qc_single/10_d_0CT_12-3_magenta_segmentation_bw.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/segmentation_qc_single/10_d_0CT_12-3_original.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/segmentation_qc_single/10_d_0CT_12-3_tissue_mask_bw.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/segmentation_qc_single/10_d_200ppb_12-3_green_segmentation_bw.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/segmentation_qc_single/10_d_200ppb_12-3_magenta_segmentation_bw.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/segmentation_qc_single/10_d_200ppb_12-3_original.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/segmentation_qc_single/10_d_200ppb_12-3_tissue_mask_bw.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/segmentation_qc_single/10_d_500ppb_12-3_green_segmentation_bw.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/segmentation_qc_single/10_d_500ppb_12-3_magenta_segmentation_bw.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/segmentation_qc_single/10_d_500ppb_12-3_original.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/segmentation_qc_single/10_d_500ppb_12-3_tissue_mask_bw.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/segmentation_qc_single/10_d_50ppb_12-3_green_segmentation_bw.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/segmentation_qc_single/10_d_50ppb_12-3_magenta_segmentation_bw.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/segmentation_qc_single/10_d_50ppb_12-3_original.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+feature_visualization_outputs/segmentation_qc_single/10_d_50ppb_12-3_tissue_mask_bw.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+figures/Fig_cross_time_transfer_4panel_realtime.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+figures/Fig_day5_day14_heatmaps_coordination_composite.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+figures/Fig_feature_family_CNN_interpretation_16features_REAL.pdf,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+figures/Fig_feature_family_CNN_interpretation_16features_REAL.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+figures/Fig_microscopy_3feature_realdata.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+figures/Fig_unseen_intermediate_dose_recovery_publication_v2.png,Rendered source illustration omitted to avoid stale day labels; regenerate from selected scripts
+显微镜图片_读取5和10_显示5和14(1).py,Alternative script revision; selected version is recorded in provenance.csv
+显微镜图片_读取5和10_显示5和14.py,Alternative script revision; selected version is recorded in provenance.csv
+特征解释性_显示5和14(1).py,Alternative script revision; selected version is recorded in provenance.csv
+特征解释性_显示5和14.py,Alternative script revision; selected version is recorded in provenance.csv
+特征解释性_显示5和14_保存Excel.py,Alternative script revision; selected version is recorded in provenance.csv
+跨时间预测_读取5和10_显示5和14(1).py,Alternative script revision; selected version is recorded in provenance.csv
+跨时间预测_读取5和10_显示5和14.py,Alternative script revision; selected version is recorded in provenance.csv
+隐藏中间剂量_读取5和10_显示5和14(1).py,Alternative script revision; selected version is recorded in provenance.csv
+隐藏中间剂量_读取5和10_显示5和14.py,Alternative script revision; selected version is recorded in provenance.csv
+预训练神经网络做细胞分割/细胞分割.rar,Nested archive retained in original ZIP; see preparation report
+CNN结果/fig4A_design_table.csv,Historical CNN validation exports withheld: split counts conflict across folds; source retained in original ZIP
+CNN结果/fig4A_group_leakage_check.csv,Historical CNN validation exports withheld: split counts conflict across folds; source retained in original ZIP
+CNN结果/fig4A_split_counts.csv,Historical CNN validation exports withheld: split counts conflict across folds; source retained in original ZIP
+CNN结果/fig4B_group_level_metrics.csv,Historical CNN validation exports withheld: split counts conflict across folds; source retained in original ZIP
+CNN结果/fig4B_group_level_predictions.csv,Historical CNN validation exports withheld: split counts conflict across folds; source retained in original ZIP
+CNN结果/fig4B_image_level_metrics.csv,Historical CNN validation exports withheld: split counts conflict across folds; source retained in original ZIP
+CNN结果/fig4B_image_level_predictions.csv,Historical CNN validation exports withheld: split counts conflict across folds; source retained in original ZIP
+CNN结果/fig4B_pr_curve_group.csv,Historical CNN validation exports withheld: split counts conflict across folds; source retained in original ZIP
+CNN结果/fig4B_pr_curve_image.csv,Historical CNN validation exports withheld: split counts conflict across folds; source retained in original ZIP
+CNN结果/fig4B_roc_curve_group.csv,Historical CNN validation exports withheld: split counts conflict across folds; source retained in original ZIP
+CNN结果/fig4B_roc_curve_image.csv,Historical CNN validation exports withheld: split counts conflict across folds; source retained in original ZIP

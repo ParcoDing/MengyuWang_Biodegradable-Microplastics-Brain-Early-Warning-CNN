@@ -1,0 +1,2 @@
+# Preserve all file bytes so checksum verification survives Git clones.
+* -text

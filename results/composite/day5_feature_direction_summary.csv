@@ -1,0 +1,17 @@
+Feature,Mean_direction,Positive_folds,Negative_folds,Consensus_direction
+cell_density,1.0,5,0,1.0
+green_mean_cell_area,-1.0,0,5,-1.0
+cell_roundness,1.0,5,0,1.0
+green_mean_eccentricity,-1.0,0,5,-1.0
+nearest_neighbor_distance,-1.0,0,5,-1.0
+local_density_variance,-0.6,1,4,-1.0
+spatial_heterogeneity_increase,-1.0,0,5,-1.0
+green_neighbor_degree,1.0,5,0,1.0
+green_close_neighbor_fraction,1.0,5,0,1.0
+green_dilation_connectivity,1.0,5,0,1.0
+channel_colocalization,-1.0,0,5,-1.0
+texture_glcm_contrast_std,1.0,5,0,1.0
+texture_glcm_energy_std,1.0,5,0,1.0
+texture_glcm_dissimilarity_std,1.0,5,0,1.0
+texture_glcm_correlation_std,1.0,5,0,1.0
+texture_glcm_homogeneity_mean,1.0,5,0,1.0

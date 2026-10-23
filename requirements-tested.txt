@@ -1,0 +1,10 @@
+# Direct package versions used for preparation-time Figure 6, 7 and 9 runs.
+# Not the original author environment; imaging/optional scripts were not run.
+numpy==2.3.5
+pandas==3.0.1
+scipy==1.18.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+seaborn==0.13.2
+openpyxl==3.1.5
+tqdm==4.70.1

@@ -1,0 +1,17 @@
+Selected_feature_index,Selected_feature_name
+0,cell_density
+1,cell_roundness
+2,nearest_neighbor_distance
+3,local_density_variance
+4,channel_colocalization
+6,spatial_heterogeneity_increase
+7,green_mean_cell_area
+9,green_mean_eccentricity
+10,green_neighbor_degree
+11,green_close_neighbor_fraction
+12,green_dilation_connectivity
+14,texture_glcm_contrast_std
+15,texture_glcm_energy_std
+16,texture_glcm_dissimilarity_std
+17,texture_glcm_correlation_std
+18,texture_glcm_homogeneity_mean

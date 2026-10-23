@@ -1,0 +1,9 @@
+# Direct analysis dependencies; source environment versions were not supplied.
+numpy
+pandas
+scipy
+scikit-learn<1.10
+matplotlib
+seaborn
+openpyxl
+tqdm

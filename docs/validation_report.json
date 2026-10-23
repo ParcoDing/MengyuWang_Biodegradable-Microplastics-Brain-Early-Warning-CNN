@@ -1,0 +1,72 @@
+{
+  "preparation_date": "2026-10-23",
+  "scope": "Structural/input-integrity validation; not complete CNN or manuscript reproduction",
+  "checks": {
+    "array_and_image_bytes_preserved": true,
+    "csv_numeric_cells_preserved": true,
+    "xlsx_numeric_values_preserved": true
+  },
+  "source_file_count_included": 6099,
+  "source_file_count_excluded": 66,
+  "images": 2968,
+  "masks": 2968,
+  "fish_groups_inferred_from_filenames": 742,
+  "time_labels": "Day 5 / Day 14; source day10 naming corrected with author authorization",
+  "cnn_training_and_weights_present": false,
+  "cnn_logit_identifier_alignment_independently_verified": false,
+  "all_manuscript_results_reproduced": false,
+  "analysis_execution": [
+    {
+      "script": "figure06_feature_coordination.py",
+      "exit_code": 0,
+      "elapsed_seconds": 9.0
+    },
+    {
+      "script": "figure07_unseen_doses.py",
+      "exit_code": 0,
+      "elapsed_seconds": 20.3
+    },
+    {
+      "script": "figure09_cross_time.py",
+      "exit_code": 0,
+      "elapsed_seconds": 9.9
+    }
+  ],
+  "numerical_comparisons": [
+    {
+      "table": "results/figures/day5_day14_family_balanced_composite_trend.csv",
+      "differing_columns": [],
+      "numeric_match_rtol_1e_minus7_atol_1e_minus9": true
+    },
+    {
+      "table": "results/figures/phenotype_coordination_pc1_explained_ratio.csv",
+      "differing_columns": [],
+      "numeric_match_rtol_1e_minus7_atol_1e_minus9": true
+    },
+    {
+      "table": "results/cnn/endpoint_defined_unseen_dose_recovery_summary.csv",
+      "differing_columns": [],
+      "numeric_match_rtol_1e_minus7_atol_1e_minus9": true
+    },
+    {
+      "table": "results/cross_time/cross_time_transfer_summary.csv",
+      "differing_columns": [],
+      "numeric_match_rtol_1e_minus7_atol_1e_minus9": true
+    }
+  ],
+  "tested_python": "3.12.14",
+  "tested_direct_versions": {
+    "numpy": "2.3.5",
+    "pandas": "3.0.1",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2",
+    "seaborn": "0.13.2",
+    "openpyxl": "3.1.5"
+  },
+  "structural_validation_status": "PASS",
+  "unexecuted_scripts": "Figure 5, Figure 8, feature extraction, standalone supplementary analyses",
+  "total_files_including_checksum": 6118,
+  "maximum_file_bytes": 7392886,
+  "no_files_above_github_100MiB": true
+}
